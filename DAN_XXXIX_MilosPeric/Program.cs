@@ -10,6 +10,8 @@ namespace DAN_XXXIX_MilosPeric
     {
         static void Main(string[] args)
         {
+            Utility.StartAudioPlayerMenu();
+            Console.ReadKey();
         }
     }
 }
